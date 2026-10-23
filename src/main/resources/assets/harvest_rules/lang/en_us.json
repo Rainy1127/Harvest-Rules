@@ -1,0 +1,17 @@
+{
+  "harvest_rules.configuration.title": "Harvest Rules",
+  "harvest_rules.configuration.section.harvest.rules.server.toml": "Harvest settings",
+  "harvest_rules.configuration.section.harvest.rules.server.toml.title": "Harvest Rules - harvest settings",
+  "harvest_rules.configuration.auto_detect_crop_blocks": "Auto-detect crop blocks",
+  "harvest_rules.configuration.auto_detect_crop_blocks.tooltip": "Also harvest every block that extends vanilla's CropBlock (most modded crops). #harvest_rules:excluded still wins.",
+  "harvest_rules.configuration.require_hoe": "Require a hoe",
+  "harvest_rules.configuration.require_hoe.tooltip": "Only harvest when a hoe is in the main hand.",
+  "harvest_rules.configuration.hoe_durability_cost": "Hoe durability cost",
+  "harvest_rules.configuration.hoe_durability_cost.tooltip": "Durability a held hoe loses per harvest. 0 = none.",
+  "harvest_rules.configuration.exhaustion": "Food exhaustion",
+  "harvest_rules.configuration.exhaustion.tooltip": "Food exhaustion per harvest. Breaking a block in vanilla costs 0.005.",
+  "harvest_rules.configuration.xp_per_harvest": "Experience per harvest",
+  "harvest_rules.configuration.xp_per_harvest.tooltip": "Experience points dropped per harvest. 0 = none.",
+  "harvest_rules.configuration.respect_protection": "Respect protection",
+  "harvest_rules.configuration.respect_protection.tooltip": "Treat a harvest like breaking the block: adventure mode, spawn protection and claim mods can stop it."
+}

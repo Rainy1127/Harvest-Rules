@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "description": "Harvest Rules test: excludes potatoes, custom reset for beetroots",
+    "pack_format": 15,
+    "supported_formats": [15, 2147483647],
+    "min_format": 15,
+    "max_format": 2147483647
+  }
+}

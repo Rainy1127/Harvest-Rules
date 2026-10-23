@@ -1,0 +1,5 @@
+{
+  "values": {
+    "minecraft:beetroots": { "seed": "minecraft:beetroot_seeds", "reset_state": { "age": "1" } }
+  }
+}

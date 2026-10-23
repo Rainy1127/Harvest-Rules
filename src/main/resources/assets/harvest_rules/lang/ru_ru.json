@@ -1,0 +1,17 @@
+{
+  "harvest_rules.configuration.title": "Harvest Rules",
+  "harvest_rules.configuration.section.harvest.rules.server.toml": "Настройки сбора",
+  "harvest_rules.configuration.section.harvest.rules.server.toml.title": "Harvest Rules: настройки сбора",
+  "harvest_rules.configuration.auto_detect_crop_blocks": "Определять культуры автоматически",
+  "harvest_rules.configuration.auto_detect_crop_blocks.tooltip": "Собирать также любые блоки-наследники ванильного CropBlock (большинство модовых культур). Тег #harvest_rules:excluded всё равно важнее.",
+  "harvest_rules.configuration.require_hoe": "Нужна мотыга",
+  "harvest_rules.configuration.require_hoe.tooltip": "Собирать только с мотыгой в основной руке.",
+  "harvest_rules.configuration.hoe_durability_cost": "Износ мотыги",
+  "harvest_rules.configuration.hoe_durability_cost.tooltip": "Сколько прочности теряет мотыга за один сбор. 0 = не теряет.",
+  "harvest_rules.configuration.exhaustion": "Истощение голода",
+  "harvest_rules.configuration.exhaustion.tooltip": "Истощение за один сбор. Разрушение блока в ванили стоит 0.005.",
+  "harvest_rules.configuration.xp_per_harvest": "Опыт за сбор",
+  "harvest_rules.configuration.xp_per_harvest.tooltip": "Сколько очков опыта выпадает за сбор. 0 = нисколько.",
+  "harvest_rules.configuration.respect_protection": "Учитывать защиту",
+  "harvest_rules.configuration.respect_protection.tooltip": "Считать сбор разрушением блока: режим приключения, защита спавна и моды приватов могут его запретить."
+}
